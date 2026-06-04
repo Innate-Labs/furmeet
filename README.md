@@ -45,7 +45,7 @@ Furmeet 拥有极具治愈感的产品体验：柔和的暖橙色调、轻盈的
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="Furmeet 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="Furmeet 首页" width="100%" />
   <br/>
   <sub><b>让每一段陪伴，不被时光带走 · AI 宠物纪念平台</b></sub>
 </div>
